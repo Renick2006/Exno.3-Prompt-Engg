@@ -111,5 +111,5 @@ Customer: How do I track my order?
 Chatbot: You're asking how to track your order, correct? You can usually find your tracking information in the shipping confirmation email we sent you. Alternatively, you can log in to your account on our website and view the order details there
 ```
 # Result: 
-The various types of Prompts were executed successfully, demonstrating different techniques to guide the AI chatbot's responses for product troubleshooting, order tracking, and general inquiries. Each prompting method elicited a distinct behavior from the simulated chatbot, highlighting the importance of prompt engineering in shaping the AI's interaction style and the quality of its assistance.Thus, the Prompts were executed successfully.
+Thus the Prompts were exected succcessfully .
 
